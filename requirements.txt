@@ -1,0 +1,7 @@
+boto3
+polars
+requests
+seaborn
+duckdb
+httpx
+pandas
